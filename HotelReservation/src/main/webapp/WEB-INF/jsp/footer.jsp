@@ -1,0 +1,1 @@
+<p>&copy; 2023 Hotel Reservation System. All rights reserved.</p>
